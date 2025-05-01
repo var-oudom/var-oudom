@@ -37,8 +37,8 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jonhjohn"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:oudomvar@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/var-oudom"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
