@@ -1,6 +1,48 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=សួស្ដី+ខ្ញុំជា+John+Doe;Full-Stack+Developer+នៅ+ភ្នំពេញ;ស្វាគមន៍+មកកាន់+GitHub+របស់ខ្ញុំ!" alt="Typing in Khmer" />
-</h1>
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <title>Khmer Animated Banner</title>
+  <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@300&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      background: #0d1117;
+      font-family: 'Kantumruy Pro', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+      color: white;
+    }
+
+    .typing-container {
+      font-size: 2rem;
+      white-space: nowrap;
+      border-right: 2px solid #fff;
+      width: 0;
+      overflow: hidden;
+      animation: typing 5s steps(60, end) forwards, blink 0.7s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
+  </style>
+</head>
+<body>
+  <div class="typing-container">
+    សួស្ដី 👋 ខ្ញុំឈ្មោះ John Doe, Full-Stack Developer ពីភ្នំពេញ!
+  </div>
+</body>
+</html>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Var-Oudom&label=Profile%20views&color=0e75b6&style=flat" alt="Var+Oudom" />
