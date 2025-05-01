@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Var+Oudom;Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=សួស្ដី+ខ្ញុំជា+John+Doe;Full-Stack+Developer+នៅ+ភ្នំពេញ;ស្វាគមន៍+មកកាន់+GitHub+របស់ខ្ញុំ!" alt="Typing in Khmer" />
 </h1>
 
 <p align="center">
