@@ -1,59 +1,56 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Hi+I'm+YourName;Full-Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+John+Doe;Full-Stack+Developer+from+Phnom+Penh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="YourUsername" />
+  <img src="https://komarev.com/ghpvc/?username=Jonhjohn&label=Profile%20views&color=0e75b6&style=flat" alt="Jonhjohn" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 I’m a passionate **Full-Stack Developer**
-- 💻 I specialize in building end-to-end scalable web applications
-- 🌐 Backend: PHP, Laravel, Node.js, Express, MySQL, MongoDB  
-- 🎨 Frontend: HTML, CSS, JavaScript, Vue.js, React, Bootstrap, Tailwind CSS  
-- ⚙️ Tools: Git, Docker, Postman, Firebase, Linux  
-- 🚀 Currently working on **[YourCurrentProject](#)**  
-- 🧠 Learning: Advanced DevOps | AI Integrations | Scalable Systems  
-- 💬 Ask me about: Web Apps, APIs, Dashboards, CMS  
-- 📫 How to reach me: [youremail@example.com](mailto:youremail@example.com)  
-- 📍 Based in: [Phnom Penh, Cambodia]
+- 🔥 Passionate Full-Stack Developer from **Phnom Penh**
+- 🎯 Building end-to-end modern web applications and APIs
+- ⚙️ I work with **all languages** — from frontend to backend and everything in between
+- 🚀 Currently improving my DevOps, AI, and scalable systems skills
+- 💬 Let’s talk about **React**, **Laravel**, **Vue**, **Node**, **PHP**, and **API design**
+- 🌐 Portfolio: [github.com](https://github.com)
+- 🧠 Always learning and exploring new technologies
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,nodejs,mysql,mongodb,git,docker,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,vue,nextjs,nodejs,express,mysql,mongodb,bootstrap,tailwind,docker,git,vscode,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonhjohn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonhjohn&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhjohn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Jonhjohn"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  💻 *Crafting software that solves real-world problems.*
+  💡 *"Code is my art, and the web is my canvas."*  
 </p>
