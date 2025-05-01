@@ -19,7 +19,7 @@
 - 🧠 Learning: Advanced DevOps | AI Integrations | Scalable Systems  
 - 💬 Ask me about: Web Apps, APIs, Dashboards, CMS  
 - 📫 How to reach me: [youremail@example.com](mailto:youremail@example.com)  
-- 📍 Based in: [Your Country or City]
+- 📍 Based in: [Phnom Penh, Cambodia]
 
 ---
 
