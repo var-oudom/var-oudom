@@ -43,7 +43,3 @@
 </p>
 
 ---
-
-<p align="center">
-  💡 *"Code is my art, and the web is my canvas."*  
-</p>
