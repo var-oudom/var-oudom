@@ -22,28 +22,22 @@ We audit and clean up unsafe scripts, ensuring UTF-8 compliance and smooth deplo
 Let us help you turn your JX2 server into a polished, professional experience — ready for players and partners.
 
 **Protection for JX2 .pak Files**
-To secure your game assets and source code, consider these layered strategies:
-1. Custom Encryption Wrapper
+- Custom Encryption Wrapper
 - Encrypt .pak files using AES-256 or ChaCha20.
 - Use a unique key per server or build version.
 - Store keys securely in a compiled binary or obfuscated config file.
-2. Header Obfuscation
+- Header Obfuscation
 - Modify the .pak file header to break compatibility with standard unpackers.
 - Add dummy bytes, reorder sections, or use a custom magic number.
-3. Checksum & Integrity Verification
+- Checksum & Integrity Verification
 - Embed SHA-256 or HMAC checksums inside the encrypted .pak.
 - Validate at runtime before loading assets — reject if tampered.
-4. Loader-Level Decryption
+- Loader-Level Decryption
 - Build a custom game loader that decrypts .pak files in memory.
 - Avoid writing decrypted files to disk — stream directly to engine.
-5. Anti-Dump & Anti-Hook Measures
+- Anti-Dump & Anti-Hook Measures
 - Detect common unpacking tools (e.g., QuickBMS, Process Hacker).
 - Use runtime checks to block memory dumps or DLL injection.
-6. License Binding (Optional)
-- Tie .pak decryption to a license key or server signature.
-- Prevent reuse on unauthorized servers.
-
-
 
 ---
 
