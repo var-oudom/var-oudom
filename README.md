@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kantumruy+Pro&weight=900&size=40&pause=1000&color=F7F7F7&background=FFD53A00&center=true&vCenter=true&width=500&height=100&lines=%E1%9E%9F%E1%9E%BD%E1%9E%9F%E1%9F%92%E1%9E%8F%E1%9E%B8%E1%9E%94%E1%9E%B6%E1%9E%91!+%E1%9E%81%E1%9F%92%E1%9E%89%E1%9E%BB%E1%9F%86+%E1%9E%A7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%98+%F0%9F%AB%B6;%E1%9E%81%E1%9F%92%E1%9E%89%E1%9E%BB%E1%9F%86%E1%9E%87%E1%9E%B6%E1%9E%A2%E1%9F%92%E1%9E%93%E1%9E%80%E1%9E%A2%E1%9E%97%E1%9E%B7%E1%9E%9C%E1%9E%8C%E1%9F%92%E1%9E%8D%E1%9E%93%E1%9F%8D%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%9C%E1%9E%B7%E1%9E%92%E1%9E%B8+%F0%9F%92%BB%F0%9F%9A%80;%E1%9E%93%E1%9F%85%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6+)
----
-
 ### About Me
 
 - Passionate Full-Stack Developer from **Phnom Penh**
