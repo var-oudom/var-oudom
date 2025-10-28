@@ -2,7 +2,7 @@
 
 - Passionate Full-Stack Developer from **Phnom Penh**
 - Building end-to-end modern web applications and APIs
-- I work with **all languages** — from frontend to backend and everything in between
+- I work with **all languages** from frontend to backend and everything in between
 - Currently improving my DevOps, AI, and scalable systems skills
 - Let’s talk about **React**, **Laravel**, **Vue**, **Node**, **PHP**, and **API design**
 - Always learning and exploring new technologies
@@ -14,12 +14,12 @@ We specialize in professional JX2 game development and server deployment. Whethe
 -  Full Game Unpack & Source Code Access
 Unlock the complete game files and source for full control and customization.
 -  Multi-Server Setup & Optimization
-We’ve worked on many servers — from private builds to public launches — and we know how to make your server stable, scalable, and professional.
+We’ve worked on many servers - from private builds to public launches - and we know how to make your server stable, scalable, and professional.
 -  Modular Workflow & Automation Tools
 Admin tools, batch scripts, and encoding fixes tailored for your team.
 -  Secure, Maintainable Codebase
 We audit and clean up unsafe scripts, ensuring UTF-8 compliance and smooth deployment.
-Let us help you turn your JX2 server into a polished, professional experience — ready for players and partners.
+Let us help you turn your JX2 server into a polished, professional experience - ready for players and partners.
 
 **Protection for JX2 .pak Files**
 - Custom Encryption Wrapper
@@ -50,7 +50,7 @@ Let us help you turn your JX2 server into a polished, professional experience �
 ---
 
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="mailto:oudomvar@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
