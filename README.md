@@ -9,7 +9,7 @@
 
 ---
 
-**JX2 Game Developer Service — Full Source & Server Customization**
+**JX2 Game Developer Service / Full Source & Server Customization**
 We specialize in professional JX2 game development and server deployment. Whether you're launching a new server or upgrading an existing one, we provide:
 -  Full Game Unpack & Source Code Access
 Unlock the complete game files and source for full control and customization.
