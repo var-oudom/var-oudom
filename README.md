@@ -1,158 +1,337 @@
+<!-- ============================================================
+     OUDOM VAR — GitHub Profile README
+     Hand-crafted layout · Cinematic dark anime aesthetic
+     ============================================================ -->
+
 <div align="center">
 
-<!-- Animated SVG Banner with Anime Character -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Oudom%20Var&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Game%20Dev%20Services&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<!-- CUSTOM ANIMATED SVG HEADER -->
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#060612"/>
+      <stop offset="100%" style="stop-color:#0d0d1f"/>
+    </linearGradient>
+    <linearGradient id="scanline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00d4ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="860" height="200" fill="url(#bg)" rx="12"/>
+  <line x1="0" y1="40" x2="860" y2="40" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="160" x2="860" y2="160" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="100" y1="0" x2="100" y2="200" stroke="#ffffff05" stroke-width="1"/>
+  <line x1="760" y1="0" x2="760" y2="200" stroke="#ffffff05" stroke-width="1"/>
+  <rect x="0" y="0" width="860" height="2" fill="url(#scanline)" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="0,200" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="52" y="115" font-family="monospace" font-size="72" fill="#00d4ff" opacity="0.15" filter="url(#glow)">{</text>
+  <text x="790" y="115" font-family="monospace" font-size="72" fill="#00d4ff" opacity="0.15" filter="url(#glow)">}</text>
+  <text x="430" y="58" font-family="'Courier New', monospace" font-size="11" fill="#00d4ff" opacity="0.7" text-anchor="middle" letter-spacing="6">PORTFOLIO · FULL-STACK · GAME DEV</text>
+  <text x="430" y="128" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="8" filter="url(#softglow)">OUDOM VAR</text>
+  <rect x="230" y="138" width="0" height="2" fill="#00d4ff" rx="1">
+    <animate attributeName="width" from="0" to="400" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="x" from="430" to="230" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="430" y="172" font-family="'Courier New', monospace" font-size="13" fill="#ffffff60" text-anchor="middle" letter-spacing="3">🇰🇭  Phnom Penh · Building the web, one commit at a time</text>
+  <polyline points="20,20 20,8 32,8" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="840,20 840,8 828,8" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="20,180 20,192 32,192" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="840,180 840,192 828,192" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.5"/>
+</svg>
 
 </div>
 
-<!-- Anime character + intro side by side -->
-<div align="center">
+&nbsp;
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime Coding GIF"/>
+<!-- ─── ANIME CHARACTER + IDENTITY BLOCK ─────────────────────── -->
 
-### 🌸 `> whoami`
+<img align="right" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Anime Coder"/>
 
-```typescript
-const oudom = {
-  location: "🇰🇭 Phnom Penh, Cambodia",
-  role: "Full-Stack Developer",
-  passions: ["Web Apps", "Game Dev", "AI/DevOps"],
-  stack: ["React", "Laravel", "Vue", "Node", "PHP"],
-  currentFocus: "Scalable Systems & AI Integration",
-  services: "JX2 Game Server Dev & Customization",
-  motto: "Always learning. Always building."
-};
+```
+╔══════════════════════════════════════════╗
+║  > SYSTEM BOOT                           ║
+║  > LOADING PROFILE: oudom.var            ║
+║  > STATUS: ██████████ 100%               ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  NAME     ›  Oudom Var                   ║
+║  ROLE     ›  Full-Stack Developer        ║
+║  BASE     ›  Phnom Penh, Cambodia 🇰🇭    ║
+║  FOCUS    ›  Web · APIs · Game Servers   ║
+║  STACK    ›  React · Laravel · Vue       ║
+║             Node · PHP · MySQL           ║
+║  MISSION  ›  Scalable systems & AI       ║
+║                                          ║
+║  [ ALL SYSTEMS OPERATIONAL ]             ║
+╚══════════════════════════════════════════╝
 ```
 
 <br clear="right"/>
 
+&nbsp;
+
+<!-- ─── ANIMATED TYPING ──────────────────────────────────────── -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&lines=const+me+%3D+new+Developer(%22Oudom+Var%22)%3B;me.build(%22modern+web+apps%22)%3B;me.deploy(%22JX2+game+servers%22)%3B;me.learn(%22AI+%2B+DevOps+%2B+scalable+systems%22)%3B;%2F%2F+always+shipping+%E2%9C%A6)](https://git.io/typing-svg)
+
 </div>
+
+&nbsp;
 
 ---
 
-<!-- Animated typing effect via readme-typing-svg -->
+&nbsp;
+
+<!-- ─── SERVICES SECTION ─────────────────────────────────────── -->
+
+## `$ ./services --list`
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;JX2+Game+Server+Specialist+%F0%9F%8E%AE;Building+Modern+Web+APIs+%F0%9F%8C%90;React+%7C+Laravel+%7C+Vue+%7C+Node+%7C+PHP;Always+Learning+%E2%9C%A8)](https://git.io/typing-svg)
+<svg width="860" height="240" viewBox="0 0 860 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a1a"/>
+      <stop offset="100%" style="stop-color:#111130"/>
+    </linearGradient>
+    <linearGradient id="acyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#0077ff"/>
+    </linearGradient>
+    <linearGradient id="apink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff2d6b"/>
+      <stop offset="100%" style="stop-color:#ff6b35"/>
+    </linearGradient>
+    <linearGradient id="agold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f5c518"/>
+      <stop offset="100%" style="stop-color:#ff9900"/>
+    </linearGradient>
+    <linearGradient id="agreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ff87"/>
+      <stop offset="100%" style="stop-color:#00c4a7"/>
+    </linearGradient>
+    <filter id="cglow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Card 1 -->
+  <rect x="10" y="10" width="190" height="220" fill="url(#cardbg)" rx="8" stroke="#00d4ff22" stroke-width="1"/>
+  <rect x="10" y="10" width="190" height="3" fill="url(#acyan)" rx="2"/>
+  <text x="105" y="55" font-family="monospace" font-size="26" text-anchor="middle" fill="#00d4ff" filter="url(#cglow)">📦</text>
+  <text x="105" y="80" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#00d4ff" text-anchor="middle" letter-spacing="1">FULL UNPACK</text>
+  <text x="105" y="96" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#00d4ff" text-anchor="middle" letter-spacing="1">&amp; SOURCE</text>
+  <line x1="30" y1="108" x2="180" y2="108" stroke="#ffffff10" stroke-width="1"/>
+  <text x="105" y="128" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">Complete game files</text>
+  <text x="105" y="144" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">+ full source access</text>
+  <text x="105" y="160" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">for total control</text>
+
+  <!-- Card 2 -->
+  <rect x="220" y="10" width="190" height="220" fill="url(#cardbg)" rx="8" stroke="#ff2d6b22" stroke-width="1"/>
+  <rect x="220" y="10" width="190" height="3" fill="url(#apink)" rx="2"/>
+  <text x="315" y="55" font-family="monospace" font-size="26" text-anchor="middle" fill="#ff2d6b" filter="url(#cglow)">🖥️</text>
+  <text x="315" y="80" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#ff2d6b" text-anchor="middle" letter-spacing="1">MULTI-SERVER</text>
+  <text x="315" y="96" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#ff2d6b" text-anchor="middle" letter-spacing="1">SETUP</text>
+  <line x1="240" y1="108" x2="390" y2="108" stroke="#ffffff10" stroke-width="1"/>
+  <text x="315" y="128" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">Stable &amp; scalable</text>
+  <text x="315" y="144" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">from private builds</text>
+  <text x="315" y="160" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">to public launches</text>
+
+  <!-- Card 3 -->
+  <rect x="430" y="10" width="190" height="220" fill="url(#cardbg)" rx="8" stroke="#f5c51822" stroke-width="1"/>
+  <rect x="430" y="10" width="190" height="3" fill="url(#agold)" rx="2"/>
+  <text x="525" y="55" font-family="monospace" font-size="26" text-anchor="middle" fill="#f5c518" filter="url(#cglow)">⚙️</text>
+  <text x="525" y="80" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#f5c518" text-anchor="middle" letter-spacing="1">AUTOMATION</text>
+  <text x="525" y="96" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#f5c518" text-anchor="middle" letter-spacing="1">&amp; TOOLING</text>
+  <line x1="450" y1="108" x2="600" y2="108" stroke="#ffffff10" stroke-width="1"/>
+  <text x="525" y="128" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">Admin tools, batch</text>
+  <text x="525" y="144" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">scripts &amp; encoding</text>
+  <text x="525" y="160" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">fixes for your team</text>
+
+  <!-- Card 4 -->
+  <rect x="640" y="10" width="210" height="220" fill="url(#cardbg)" rx="8" stroke="#00ff8722" stroke-width="1"/>
+  <rect x="640" y="10" width="210" height="3" fill="url(#agreen)" rx="2"/>
+  <text x="745" y="55" font-family="monospace" font-size="26" text-anchor="middle" fill="#00ff87" filter="url(#cglow)">🔒</text>
+  <text x="745" y="80" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#00ff87" text-anchor="middle" letter-spacing="1">SECURE .PAK</text>
+  <text x="745" y="96" font-family="'Courier New',monospace" font-size="11" font-weight="700" fill="#00ff87" text-anchor="middle" letter-spacing="1">PROTECTION</text>
+  <line x1="660" y1="108" x2="830" y2="108" stroke="#ffffff10" stroke-width="1"/>
+  <text x="745" y="128" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">AES-256 encryption</text>
+  <text x="745" y="144" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">+ anti-dump &amp; hook</text>
+  <text x="745" y="160" font-family="Arial,sans-serif" font-size="10" fill="#ffffff70" text-anchor="middle">detection at runtime</text>
+</svg>
 
 </div>
+
+&nbsp;
 
 ---
 
-## 🎮 JX2 Game Developer Services
+&nbsp;
+
+<!-- ─── TECH STACK ───────────────────────────────────────────── -->
+
+## `$ cat stack.config`
 
 <div align="center">
 
-> **Professional JX2 game development & server deployment — from private builds to public launches.**
+<table>
+<tr>
+<td valign="top" width="33%">
 
-</div>
-
-| Service | Description |
-|---|---|
-| 📦 **Full Unpack & Source Access** | Unlock complete game files for total control & customization |
-| 🖥️ **Multi-Server Setup** | Stable, scalable setups built for real player traffic |
-| ⚙️ **Automation & Admin Tools** | Batch scripts, encoding fixes, and workflow tools |
-| 🔒 **Secure Codebase Audits** | UTF-8 compliance, cleanup & safe deployment |
-
-### 🛡️ .pak File Protection Stack
-
+**— Frontend —**
 ```
-AES-256 / ChaCha20 Encryption  →  Header Obfuscation  →  SHA-256 Integrity Checks
-         ↓                               ↓                          ↓
-  Per-server unique keys        Custom magic numbers         Runtime HMAC validation
-         ↓                               ↓                          ↓
-  In-memory loader decrypt      Anti-dump detection         Anti-hook / DLL block
+▸ HTML5 · CSS3
+▸ JavaScript · TypeScript
+▸ React · Next.js
+▸ Vue.js 3
+▸ Tailwind CSS · Bootstrap
 ```
 
----
+</td>
+<td valign="top" width="33%">
 
-## 🧰 Tech Stack
+**— Backend —**
+```
+▸ PHP · Laravel
+▸ Node.js · Express
+▸ REST API Design
+▸ MySQL · MongoDB
+▸ Auth & Security
+```
 
-<div align="center">
+</td>
+<td valign="top" width="33%">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+**— DevOps & Tools —**
+```
+▸ Docker · Linux
+▸ Git · GitHub Actions
+▸ VS Code · Bash
+▸ Server Hardening
+▸ AI / LLM Integration
+```
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</td>
+</tr>
+</table>
 
-### Database & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=var-oudom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=var-oudom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&perline=8&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,docker,linux&perline=8&theme=dark" />
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=var-oudom&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
+&nbsp;
 
 ---
 
-## 🏆 GitHub Trophies
+&nbsp;
+
+<!-- ─── GITHUB STATS ─────────────────────────────────────────── -->
+
+## `$ git log --author="oudom" --stat`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=var-oudom&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=var-oudom&show_icons=true&theme=dark&hide_border=true&bg_color=060612&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=var-oudom&layout=compact&theme=dark&hide_border=true&bg_color=060612&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
+
+&nbsp;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=var-oudom&theme=dark&hide_border=true&background=060612&ring=00d4ff&fire=ff2d6b&currStreakLabel=00d4ff&sideLabels=ffffff80&dates=ffffff50)](https://git.io/streak-stats)
 
 </div>
 
+&nbsp;
+
 ---
 
-## 🌐 Connect With Me
+&nbsp;
+
+<!-- ─── ACTIVITY GRAPH ───────────────────────────────────────── -->
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-oudomvar%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oudomvar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-var--oudom-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/var-oudom)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-%23000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/var-oudom)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=var-oudom&bg_color=060612&color=00d4ff&line=0077ff&point=ff2d6b&area=true&hide_border=true&area_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+&nbsp;
+
 ---
+
+&nbsp;
+
+<!-- ─── CONTRIBUTION SNAKE ──────────────────────────────────── -->
 
 <div align="center">
 
-<!-- Animated snake contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/var-oudom/var-oudom/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/var-oudom/var-oudom/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/var-oudom/var-oudom/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/var-oudom/var-oudom/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
+&nbsp;
+
+---
+
+&nbsp;
+
+<!-- ─── CONNECT ─────────────────────────────────────────────── -->
+
+## `$ ping oudom --contact`
+
 <div align="center">
 
-<!-- Profile view counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=var-oudom&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/◈%20%20oudomvar%40gmail.com-%20?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060612&color=060612)](mailto:oudomvar@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/◈%20%20var--oudom-%20?style=for-the-badge&logo=github&logoColor=white&labelColor=060612&color=060612)](https://github.com/var-oudom)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+&nbsp;
+
+![Profile Views](https://komarev.com/ghpvc/?username=var-oudom&color=00d4ff&style=flat-square&label=profile+views)
+
+</div>
+
+&nbsp;
+
+<!-- ─── FOOTER SVG ───────────────────────────────────────────── -->
+
+<div align="center">
+
+<svg width="860" height="60" viewBox="0 0 860 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#060612"/>
+      <stop offset="50%" style="stop-color:#0d1832"/>
+      <stop offset="100%" style="stop-color:#060612"/>
+    </linearGradient>
+    <linearGradient id="footerline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00d4ff;stop-opacity:0.8"/>
+      <stop offset="70%" style="stop-color:#ff2d6b;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#ff2d6b;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="60" fill="url(#footerbg)" rx="8"/>
+  <rect x="0" y="0" width="860" height="1" fill="url(#footerline)"/>
+  <text x="430" y="36" font-family="'Courier New',monospace" font-size="12" fill="#ffffff50" text-anchor="middle" letter-spacing="3">// KEEP BUILDING · KEEP SHIPPING · NEVER STOP LEARNING</text>
+</svg>
 
 </div>
