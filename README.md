@@ -1,32 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,100:00d4ff&height=250&section=header&text=OUDOM%20VAR&fontSize=70&fontAlignY=35&desc=Full-Stack%20%C2%B7%20Cybersecurity%20%C2%B7%20Game%20Dev&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
+# 👾 P L A Y E R   1  :  O U D O M   V A R 👾
+**[ LVL 99 FULL-STACK ARCHITECT & GAME SERVER DEV ]**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=FF2D6B&center=true&vCenter=true&width=640&lines=const+dev+%3D+new+Developer(%22Oudom%22)%3B;dev.build(%22secure+e-commerce+platforms%22)%3B;dev.deploy(%22JX2+game+servers%22)%3B;dev.secure(%22APIs+%26+code+obfuscation%22)%3B;%2F%2F+always+shipping+%E2%9C%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+GAME+ENGINE...;%3E+LOADING+CHARACTER+STATS...;%3E+PRESS+START+TO+CONTINUE.)](https://git.io/typing-svg)
 
 </div>
 
-&nbsp;
+---
 
-<table align="center" width="100%" style="border: none; background-color: #060612;">
-<tr>
-<td width="60%" valign="top">
+### 📜 CHARACTER STATUS
 
-```shell
-> SYSTEM BOOT ... OK
-> LOADING USER PROFILE ... 
-> [====================] 100%
+```text
+NAME       : Oudom Var
+CLASS      : Full-Stack Developer / Server Architect
+BASE       : Phnom Penh, Cambodia 🇰🇭
+GUILD      : Osja KH (Founder & Lead Dev)
+WEAPON     : Keyboard of Compilation (+15 to Coding Speed)
+ARMOR      : Cloak of Obfuscation (+20 to API Protection)
 
-{
-  "name": "Oudom",
-  "base": "Phnom Penh, Cambodia 🇰🇭",
-  "role": ["Full-Stack Developer", "Cybersecurity Enthusiast"],
-  "mission": "Building scalable, secure systems and immersive game architectures.",
-  
-  "current_directives": [
-    "🏗️ Developing Osja KH — A legitimate, secure platform for affordable software & game accounts in Cambodia.",
-    "🚀 Architecting 'Samray' & specialized admin panels.",
-    "🛡️ Focusing on API protection, secure web sessions, and code obfuscation.",
-    "🛠️ Crafting software tools (Bcrypt hashers, visualizers, dubbing tools)."
-  ]
-}
+[HP] : ████████████████████ 100% (Fully Caffeinated)
+[MP] : ████████████████████ 100% (Ready to Deploy)
